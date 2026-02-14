@@ -31,5 +31,5 @@ Licenciado em física pela Universidade Federal do Rio Grande do Norte (UFRN) e 
 
 ---
 
-Contato:
+
 [Link do meu Currículo Lattes](http://lattes.cnpq.br/4276009402417491)
