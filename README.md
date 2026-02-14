@@ -1,36 +1,46 @@
-Sou formado em Física pela UFRN e atualmente curso o bacharelado em Ciências e Tecnologia na mesma instituição. Possuo um perfil analítico e prático, unindo a base matemática da Física com a experiência em arquitetura de sistemas na robótica competitiva e gestão como Supervisor de Vendas na Brasil Embalagens. Atualmente foco meus estudos em Python e IA, utilizando meu raciocínio lógico para desenvolver soluções baseadas em dados e modelos preditivos.
+# Alisson da Silva Queiroz
 
-PREMIAÇÕES E TÍTULOS ACADÊMICOS
+Físico pela UFRN e graduando em Ciências e Tecnologia, possuo um perfil analítico e prático com vasta experiência em competições de tecnologia e gestão. Atualmente foco os meus estudos no desenvolvimento de soluções em Python e Inteligência Artificial.
 
-World Technology Universities Network (WTUN) Student Competition:
+---
 
-2º Lugar Mundial (2024-2025).
+## Premiações e Títulos Acadêmicos
 
-Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP): 
+#### World Technology Universities Network (WTUN) Student Competition
+* 2º Lugar Mundial (2024-2025).
 
-Menção Honrosa (2016).
-Menção Honrosa (2015).
-Menção Honrosa (2013).
+#### First LEGO League (FLL)
+* Champion’s Award - Etapa Regional.
+* Etapa Nacional em Curitiba.
+* Juiz de Design do Robô (2025).
+* Juiz de Arena (2019, 2020, 2022, 2023 e 2024).
 
-Olimpíada Brasileira de Astronomia e Astronáutica (OBA): 
+#### Desafio de Robótica na Indústria
+* Etapa Nacional em Brasília.
 
-Medalha de Bronze (2018).
-Medalha de Prata (2016).
+#### Olimpíada Brasileira de Robótica (OBR)
+* 2º Lugar Geral - Etapa Regional.
+* Etapa Nacional.
 
-First LEGO League (FLL): 
+#### Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
+* Menção Honrosa (2016).
+* Menção Honrosa (2015).
+* Menção Honrosa (2013).
 
-Champion’s Award - Etapa Regional 
+#### Olimpíada Brasileira de Astronomia e Astronáutica (OBA)
+* Medalha de Bronze (2018).
+* Medalha de Prata (2016).
 
-Etapa Nacional em Curitiba.
+---
 
-Juiz de Arena (2019, 2020, 2022, 2023 e 2024).
+## Formação e Experiência
 
-Juiz de Design do Robô (2025).
+* Bacharelado em Ciências e Tecnologia (C&T) – UFRN (Cursando 2º período).
+* Licenciatura em Física – UFRN (Concluído).
+* Técnico em Edificações – SENAI.
+* Supervisor de Vendas – Brasil Embalagens.
 
-Desafio de Robótica na Indústria: 
+---
 
-Etapa Nacional em Brasília.
-
-Olimpíada Brasileira de Robótica (OBR):
-
-2º Lugar Geral - Etapa Regional.
+Contacto:
+[Link do seu Lattes](http://lattes.cnpq.br/4276009402417491)
