@@ -43,8 +43,9 @@
 * Bacharelado em Ciências e Tecnologia (C&T) – UFRN (Cursando)
 * Licenciatura em Física – UFRN (Concluído)
 * Técnico em Edificações – SENAI (Concluído)
-* Supervisor de Vendas – Brasil Embalagens
-
+* Vendedor – Brasil Embalagens
+* Supervisor de Vendas – Brasil Embalagens (Atual)
+  
 ---
 
 
