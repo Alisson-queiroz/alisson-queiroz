@@ -18,13 +18,13 @@
 
 ---
 
-## Premiações e Títulos Acadêmicos
+### Premiações e Títulos Acadêmicos
 
 * World Technology Universities Network (WTUN) Student Competition: 2º Lugar Mundial (2024-2025)
 * Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP): Menção Honrosa (2016, 2015, 2013)
 * Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Medalha de Prata (2016) e Medalha de Bronze (2018)
 
-### Competições de Robótica
+## Competições de Robótica
 
 * First LEGO League (FLL):
   * Champion’s Award - Etapa Regional
