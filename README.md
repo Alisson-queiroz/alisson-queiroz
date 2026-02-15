@@ -5,9 +5,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=F%C3%ADsico+UFRN;Graduando+C%26T+UFRN;Supervisor+de+Vendas;" alt="Headline" />
 </div>
-<p align="center">Formado em Licenciatura em Física pela UFRN e graduando em Ciências e Tecnologia na mesma instituição. Atualmente sou Supervisor de Vendas na Brasil Embalagens e possuo formação técnica em Edificações pelo SENAI. Meu perfil é focado em lógica, Python e Inteligência Artificial, com um histórico sólido de premiações nacionais e internacionais em competições de robótica e ciências exatas.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonQueiroz&label=Visualiza%C3%A7%C3%B5es%20no%20perfil&color=0e75b6&style=flat" alt="AlissonQueiroz" /> </p>
+<p align="left">Formado em Licenciatura em Física pela UFRN e graduando em Ciências e Tecnologia na mesma instituição. Atualmente sou Supervisor de Vendas na Brasil Embalagens e possuo formação técnica em Edificações pelo SENAI. Meu perfil é focado em lógica, Python e Inteligência Artificial, com um histórico sólido de premiações nacionais e internacionais em competições de robótica e ciências exatas.</p>
 
 - Atualmente, trabalho na [**Brasil Embalagens**](https://brasilembalagensrn.com.br/).
 - Meus estudos focam em **Python, IA, Ciência de Dados e Engenharia Aeroespacial**.
