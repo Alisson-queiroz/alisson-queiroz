@@ -12,7 +12,7 @@
 - Atualmente, trabalho na [**Brasil Embalagens**](https://brasilembalagensrn.com.br/).
 - Meus estudos focam em **Python, IA, Ciência de Dados e Engenharia Aeroespacial**.
 - Formação: **Licenciatura em Física (UFRN)** e **Técnico em Edificações (SENAI)**.
-- E-mail para contato: **alisson.queiroz.705@ufrn.edu.br**
+- E-mail institucional: **alisson.queiroz.705@ufrn.edu.br**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
