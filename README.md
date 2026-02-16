@@ -14,7 +14,7 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=py,js,html,css,arduino)]()
+[![Estudos focados em:](https://skillicons.dev/icons?i=py,js,css,arduino)]()
 
 ---
 
