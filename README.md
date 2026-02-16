@@ -11,10 +11,7 @@
 - Meus estudos focam em **Python, IA, Ciência de Dados e Engenharia Aeroespacial**.
 - Formação: **Licenciatura em Física (UFRN)** e **Técnico em Edificações (SENAI)**.
 - E-mail institucional: **alisson.queiroz.705@ufrn.edu.br**
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-
-[![Estudos focados em:](https://skillicons.dev/icons?i=py,js,css,arduino)]()
+  
 
 ---
 
