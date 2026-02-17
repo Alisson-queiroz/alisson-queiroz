@@ -3,7 +3,7 @@
 <h1 align="center">Olá! Eu sou Alisson da Silva Queiroz</h1>
 <h3 align="center"> Residente em Natal-RN/Brasil.</h3>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=F%C3%ADsico+UFRN;Graduando+C%26T+UFRN;Supervisor+de+Vendas;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=F%C3%ADsico+-+UFRN;Graduando+C%26T+-+UFRN;Supervisor+de+Vendas+Online;" alt="Headline" />
 </div>
 <p align="left">Formado em Licenciatura em Física pela UFRN e graduando em Ciências e Tecnologia na mesma instituição. Atualmente sou Supervisor de Vendas na Brasil Embalagens e possuo formação técnica em Edificações pelo SENAI. Meu perfil é focado em lógica, Python e Inteligência Artificial, com um histórico sólido de premiações nacionais e internacionais. Participação em competições de robótica e ciências exatas.</p>
 
